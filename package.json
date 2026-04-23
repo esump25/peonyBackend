@@ -1,7 +1,7 @@
 {
   "name": "peony-backend",
   "version": "1.0.0",
-  "description": "API Proxy and Review Database for Peony",
+  "description": "API Proxy and Review Database",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
